@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.manage.fdxtestbankapp",
+    "package_name": "com.example.fdxtestbankapp",
     "sha256_cert_fingerprints":
     ["E2:96:E4:19:E4:D1:87:A6:D9:20:D9:EE:61:4A:AF:87:C4:B6:E3:4A:3B:56:BD:03:70:D9:2F:DC:E3:1F:EA:6A"]
   }
