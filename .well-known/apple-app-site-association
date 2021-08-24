@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G4SSPX3CBL.com.intuit.TestBankApp",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
