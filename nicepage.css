@@ -34470,8 +34470,8 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-container-layout.u-custom-color-3:before,
         .u-table-alt-custom-color-3 tr:nth-child(even)
         {
-            color: #ffffff;
-            background-color: rgba(114,104,104,0.56);
+            color: #033e3e99;
+            background-color: #033e3e99;
         }
 
         .u-button-style.u-custom-color-3,
@@ -35103,7 +35103,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 197px;
   height: 54px;
-  margin: 20px auto 0 0;
+  margin: 10px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -35113,7 +35113,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: -32px 0 20px auto;
+  margin: -32px 0 10px auto;
 }
 
 .u-header .u-nav-1 {
